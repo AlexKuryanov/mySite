@@ -1,5 +1,5 @@
 # mySite
 
-My first site about myself
+My first site (training project from html-academy)
 
 [https://alexkuryanov.github.io/mySite/index.html](https://alexkuryanov.github.io/mySite/index.html)
